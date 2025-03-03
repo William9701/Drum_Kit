@@ -22,4 +22,4 @@ A dynamic and interactive drum kit website where users can play drum sounds usin
 
 ## Hashtags
 
-#DrumKit #WebDevelopment #JavaScript #HTML #CSS #FrontendDevelopment #InteractiveWeb #AudioIntegration!
+#DrumKit #WebDevelopment #JavaScript #HTML #CSS #FrontendDevelopment #InteractiveWeb #AudioIntegration.
